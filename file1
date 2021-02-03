@@ -11,3 +11,5 @@ animals.push('chickens', 'cats', 'dogs');
 console.log(animals);
 // expected output: Array ["pigs", "goats", "sheep", "cows", "chickens", "cats", "dogs"]
 
+ my name is anas khan
+and i m writer of this new code
